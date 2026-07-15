@@ -118,13 +118,14 @@
 
 > **"Code with purpose. Learn without limits."**
 
+### Thanks for visiting! ❤️
+
 </div>
 
 ---
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&color=0:1e3a8a,100:3b82f6"/>
 
-### Thanks for visiting! ❤️
 
 </div>
 ```
