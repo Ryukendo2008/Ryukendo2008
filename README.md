@@ -1,50 +1,44 @@
-````markdown
+```markdown
 <div align="center">
 
-# 👋 Hello, I'm Abdullah Al Mahmud
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Abdullah%20Al%20Mahmud&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### 💻 Full Stack Web Developer | 🎬 Video Editor
+<h2>💻 Web Developer • 🎬 Video Editor</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Angular+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Angular+Developer;Creative+Video+Editor;Always+Learning+New+Technologies"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=Ryukendo2008&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/Ryukendo2008?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Ryukendo2008?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-```javascript
-const abdullah = {
-    location: "Bangladesh 🇧🇩",
-    education: "College Student",
-    experience: "5+ Years",
-    role: "Full Stack Web Developer",
-    passions: [
-        "Web Development",
-        "Open Source",
-        "UI/UX",
-        "Video Editing"
-    ],
-    currentlyLearning: [
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Next.js"
-    ]
-};
-```
+- 🇧🇩 Based in Bangladesh
+- 🎓 College Student
+- 💻 Passionate Web Developer
+- 🎬 Creative Video Editor
+- 🚀 Building responsive and modern web applications
+- 📚 Always learning and improving my skills
 
 ---
 
-## 🛠 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,bootstrap,nodejs,express,mongodb,python,java,cpp,git,github,vscode,figma" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind,python,java,cpp,git,github,vscode,figma"/>
+
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -56,23 +50,13 @@ const abdullah = {
 
 <p align="center">
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Ryukendo2008&theme=github-dark&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Ryukendo2008&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ryukendo2008&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -82,7 +66,17 @@ const abdullah = {
 
 ---
 
-## 🤝 Connect
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ryukendo2008&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -90,15 +84,37 @@ const abdullah = {
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<!-- Add LinkedIn later -->
+<!--
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+-->
+
+<!-- Add Portfolio later -->
+<!--
+<a href="https://yourwebsite.com">
+🌍 Portfolio
+</a>
+-->
+
 </p>
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Ryukendo2008&style=for-the-badge)
+## ⭐ Favorite Quote
 
-### ⭐ *"First, solve the problem. Then, write the code."* — John Johnson
+> **"Code with purpose. Learn without limits."**
 
 </div>
-````
+
+---
+
+<div align="center">
+
+### Thanks for visiting! ❤️
+
+</div>
+```
