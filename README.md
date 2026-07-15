@@ -66,6 +66,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Ryukendo2008/Ryukendo2008/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
 # 🏆 Achievements
 
 <p align="center">
